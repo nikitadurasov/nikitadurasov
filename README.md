@@ -1,6 +1,6 @@
-# Hey folks! 🌱
+# Hello! 🌱
 
-I'm **Nikita Durasov**, a PhD candidate at EPFL specializing in computer vision, machine learning, and uncertainty estimation.
+I’m <strong>Nikita Durasov</strong>, a <strong>Research Scientist</strong> at <a href="https://research.nvidia.com/labs/av-applied-research/">NVIDIA</a>, bridging the gap between state-of-the-art research and scalable <a href="https://developer.nvidia.com/drive">AV products</a> by building robust perception and planning for self-driving cars.
 
 [![GitHub followers](https://img.shields.io/github/followers/NikitaDurasov?label=Follow&style=social)](https://github.com/NikitaDurasov)
 [![Visits Badge](https://komarev.com/ghpvc/?username=NikitaDurasov)](https://github.com/NikitaDurasov)
@@ -13,7 +13,7 @@ I'm **Nikita Durasov**, a PhD candidate at EPFL specializing in computer vision,
 
 - 🔭 **Research**: Published in CVPR, ICCV, ICML on topics like neural network robustness, uncertainty, and computer vision.
 - 🌱 **Industry Experience**: Collaborated with NVIDIA, Apple, Amazon, and Samsung on AI and ML solutions.
-- 🎓 **Education**: PhD in Computer Science (EPFL), BS in Applied Mathematics and Physics (MIPT).
+- 🎓 **Education**: PhD in Computer Science from EPFL, where I focused on model uncertainty and generalization.
 
 <!--![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaDurasov&show_icons=true&theme=radical)-->
 
